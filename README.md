@@ -9,6 +9,8 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - Enable the API by adding this line to your webui.bat file: 
 <code>set COMMANDLINE_ARGS=--api --xformers --listen --enable-insecure-extension-access</code> 
 
+- Replace 'http://192.168.1.90:7860' in the url variable in the code with the correct URL of your Stable Diffusion API endpoint.
+
 - Get a key from the @botfather and put this in the key.txt file
 run the script by <code>python3 run_main.py</code> 
 
