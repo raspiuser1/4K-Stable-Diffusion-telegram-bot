@@ -17,4 +17,6 @@ run the script by <code>python3 run_main.py</code>
 - /cfg [number] the cfg you would set in the Gui standard its set to 14 
 - /sr [number 1 or 2] change the resolution to 1920 x 1080 or to 4K 
 
-## Video is coming soon
+## Video
+https://youtu.be/uDzJ0iYHOqg <br />
+[![IMAGE VIDEO](https://img.youtube.com/vi/uDzJ0iYHOqg/0.jpg)](https://www.youtube.com/watch?v=uDzJ0iYHOqg)<br />
