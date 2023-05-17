@@ -1,4 +1,4 @@
-# Stable-fiffusion-telegram-bot
+# 4K Stable fiffusion telegram bot
 Create a Stable Diffusion Telegram Bot which allows you to generate images in the bot via the API of the stable diffusion interface 
 the resulution can be changed in HD or in 4K which uses the upscaler.
 
