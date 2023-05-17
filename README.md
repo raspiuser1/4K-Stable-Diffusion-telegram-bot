@@ -5,6 +5,6 @@ Create a Stable Diffusion Telegram Bot which allows you to generate images in th
 You need to install this repro:
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 and Enable the API by adding this line to your webui.bat file:
-`set COMMANDLINE_ARGS=--api --xformers --listen --enable-insecure-extension-access
+<code>set COMMANDLINE_ARGS=--api --xformers --listen --enable-insecure-extension-access<code>
 
 ## Video is coming soon
