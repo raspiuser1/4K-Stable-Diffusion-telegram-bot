@@ -5,3 +5,5 @@ Create a Stable Diffusion Telegram Bot which allows you to generate images in th
 You need to install this repro:
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 and Enable the 
+
+# Video is coming soon
