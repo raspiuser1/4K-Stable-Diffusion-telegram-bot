@@ -11,9 +11,9 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 - Get a key from the @botfather and put this in the key.txt file
 run the script by <code>python3 run_main.py</code> 
 
-- Currently the bot has 3 commands:
- /get  and then put your search promt here
- /cfg [number] the cfg you would set in the Gui standard its set to 14
- /sr [number 1 or 2] change the resolution to 1920 x 1080 or to 4K
+- Currently the bot has 3 commands: 
+ /get  and then put your search promt here 
+ /cfg [number] the cfg you would set in the Gui standard its set to 14 
+ /sr [number 1 or 2] change the resolution to 1920 x 1080 or to 4K 
 
 ## Video is coming soon
